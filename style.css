@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://use.fontawesome.com/releases/v5.2.0/css/all.css);
+body{
+	font-family: 'Quicksand', sans-serif;
+	padding:3rem 1rem;
+	max-width: 40rem;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 100px;
+}
+a:visited{
+	color: blue;
+}
+a:hover{
+	color: darkblue;
+}
